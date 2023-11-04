@@ -1,2 +1,2 @@
 # Countries
-List of Countries, with their country codes, Continents and States
+List of Countries, with their country codes, Geographical Continent and States
